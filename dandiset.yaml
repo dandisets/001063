@@ -13,9 +13,9 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 148356576
-  numberOfFiles: 213
-  numberOfSubjects: 218
+  numberOfBytes: 153184896
+  numberOfFiles: 220
+  numberOfSubjects: 184
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_7227
@@ -23,7 +23,7 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured: []
 citation: Wu, Nathan (2025) Broken time reversal symmetry in motion detection (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001063/draft
+  0.250125.0601) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001063/0.250125.0601
 contributor:
 - affiliation: []
   email: mrwun2002@gmail.com
@@ -54,12 +54,13 @@ description: Our intuition suggests that when a movie is played in reverse, our 
   promote some forms of time reversal symmetry breaking. Overall, these results reveal
   a surprising feature of biological motion detectors and suggest that it could arise
   from constrained optimization in natural environments.
-id: DANDI:001063/draft
+doi: 10.48324/dandi.001063/0.250125.0601
+id: DANDI:001063/0.250125.0601
 identifier: DANDI:001063
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001063/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001063/0.250125.0601/assets.yaml
 name: Broken time reversal symmetry in motion detection
 publishedBy:
   endDate: '2025-01-25T06:01:58.880120+00:00'
@@ -76,5 +77,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
-url: https://dandiarchive.org/dandiset/001063/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001063/0.250125.0601
+version: 0.250125.0601
